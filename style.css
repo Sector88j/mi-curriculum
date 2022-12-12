@@ -1,0 +1,183 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+    font-family: sans-serif;
+    background-color: gray;
+    margin: 10px 0px 10px 0px;
+}
+#principal{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    height: 1350px;
+    width: 900px;
+    background-color: white;
+}
+#inicio{
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    height: 150px;
+    background-color: rgb(255, 223, 44);
+}
+#parte{
+    margin: 0px 0px 0px 60px;
+    display: flex;
+    width: 900px;
+    height: 290px;
+}
+.contenido p{
+    margin: 5px 0px 0px -120px;
+}
+.contenido h1{
+    margin: 20px 0px 0px -120px;
+    display: flex;
+    flex-wrap: wrap;
+}
+span img{
+    display: flex;
+    flex-wrap: wrap;
+    margin: -118px 700px 0px 0px;
+    width: 200px;
+}
+.datos{
+    color: white;
+    background-color: black;
+    width: 170px;
+    padding:0px 0px 0px 10px;
+}
+.contacto{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.contacto p{
+    margin: 5px 0px 0px 0px;
+}
+.perfil p{
+    margin: 0px 20px 5px 0px;
+    line-height: 1.5;
+    display: flex;
+}
+.perfil{
+    justify-self: space-around;
+    display: flex;
+    width: 780px;
+    margin: 20px 0px 20px 0px;
+}
+.columna{
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    margin: -20px 0px -30px 0px;
+}
+.nacimiento p{
+    margin: -10px 0px 0px 0px;
+    line-height: 1.5;
+}
+.titulo1{
+    background-color: black;
+    color: white;
+    width: 200px;
+    padding:0px 0px 0px 15px;
+    margin: -40px 0px 0px 0px;
+}
+.formacion{
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 380px 0px 0px;
+}
+.nom{
+    line-height: 1.5;
+}
+.man{
+    line-height: 1.5;
+}
+.for{
+    background-color: black;
+    color: white;
+    width: 110px;
+    margin: -35px 0px -10px 0px;
+    padding:0px 0px 0px 15px;
+}
+.xd{
+    line-height: 1.5;
+}
+.formacion h6{
+    margin: -15px 0px 0px 0px;
+    color: gray;
+}
+.experiencialaborales{
+    justify-content: space-around;
+    display: flex;
+    margin: 0px 280px 0px 0px;
+}
+.experiencia{
+    background-color: black;
+    margin: -25px 0px 0px 0px;
+    color: white;
+    width: 200px;
+    padding:0px 0px 0px 15px;
+}
+.competencias{
+    justify-content: space-around;
+    display: flex;
+    margin: 0px 50px 50px 50px;
+    padding: 0px 0px 0px 0px;
+}
+.com{
+    background-color: black;
+    margin: -25px 0px 0px 0px;
+    color: white;
+    width: 140px;
+    padding:0px 0px 0px 15px;
+    margin: 0px 0px 0px 50px;
+}
+.habilidad{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 100px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    width: 300px;
+}
+.hab{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    margin: 0px 100px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    width: 300px;
+}
+.lineanegra{
+    height: 10px;
+    background-color: black;
+}
+.lineanegra1{
+    height: 10px;
+    width: 250px;
+    background-color: black;
+}
+.lineanegra2{
+    height: 10px;
+    width: 250px;
+    background-color: black;
+}
+.lineanegra3{
+    height: 10px;
+    width: 250px;
+    background-color: black;
+}
+.lineagris{
+    margin: -10px 0px 0px 250px;
+    padding: 0px 0px 0px 0px;
+    height: 10px;
+    right: 2px;
+    background-color: rgb(238, 227, 227);
+}
+.experiencialaborales h6{
+    color: gray;
+    margin: -15px 0px 0px 0px;
+}
